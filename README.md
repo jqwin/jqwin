@@ -1,17 +1,15 @@
-- 👋 Hi, I’m @jqwin
-- 👀 I’m interested in statistics, data, and coffee
-- 🌱 I’m currently learning Python, SQL, and data visualizations
+# Hi, I'm Joe Nguyen👋
 
-This is a space for my projects and to help showcase my skills to potential employers.
+I'm an aspiring data analyst and this is a space to share my projects.
 
-Project NBA Twitter Sentiment Analysis -
+Background:
+I come from an IT consulting background where I've implemented NetSuite projects for the past five years. I specialized in accounting and finance processes. I gained an interest in data when using the query functionality in NetSuite.
 
-NBA Twitter Scraper NLP Analysis
-> This script uses snscrape to pull tweets from twitter based on a user defined search criteria. The search criteria looked for tweets that contain the terms #wemby and is within the date range of 6/22 to 6/23. The script then reads each tweet and gives a polarity(sentiment) rating. A rating can be between -1 to +1, negative to positive respectively. In the end the script produces a flat file(python_nba_tweets_wemby.csv)
-
-How did NBA Twitter feel about #Wemby.pptx
-> Presentation visualizes the data from the flat file
-
+Technologies that I'm learning:
+- SQL
+- Python
+- Looker
+- Tableau
 
 <!---
 jqwin/jqwin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
